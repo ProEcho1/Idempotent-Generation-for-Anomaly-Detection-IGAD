@@ -269,7 +269,7 @@ Including IGAD loss in validation helps you track if the manifold constraints ar
         return total_val_loss / len(valid_loader)
 ```
 
-# 🚩 Run with Examples
+# 🚩 Run with Examples (Uploading....)
 
 ```bash
   bash train.sh
